@@ -28,7 +28,7 @@ public class input extends JFrame {
     public void main(input Input) {
         inputEngine = new InputEngine(Input);
 
-        size=0;
+        size = 0;
 
         panel = new JPanel();
 

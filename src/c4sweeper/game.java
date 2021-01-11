@@ -117,7 +117,7 @@ public class game extends JFrame {
         smileButton.setName("smileButton");
         smileButton.addActionListener(gameEngine);
 
-        JLabel jLabel2 = new JLabel(" Waktu: ");
+        JLabel jLabel2 = new JLabel("Waktu: ");
         timeLabel = new JLabel("0");
         timeLabel.setAlignmentX(Component.RIGHT_ALIGNMENT);
         timeLabel.setHorizontalAlignment(JLabel.RIGHT);
