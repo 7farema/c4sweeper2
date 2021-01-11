@@ -43,7 +43,7 @@ public class input extends JFrame {
         this.setVisible(true);
     }
 
-    final private C4sweeper iC4sweeper;  // A reference to the original game
+    final private C4sweeper iC4sweeper;
     private InputEngine inputEngine;  // The ActionListener
 
     private int size;  // size given
